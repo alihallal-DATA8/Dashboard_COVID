@@ -1,0 +1,2 @@
+conda isntall anaconda 
+conda install -c conda-forge dash 
